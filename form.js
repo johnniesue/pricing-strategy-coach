@@ -1,1 +1,1 @@
-console.log('Formspree connected');
+console.log('Interactive logic here - pricing coach wizard');
